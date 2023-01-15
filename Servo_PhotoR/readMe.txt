@@ -1,0 +1,1 @@
+Servo Position depends on light level.

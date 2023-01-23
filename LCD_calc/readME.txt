@@ -1,0 +1,1 @@
+LCD calculator, video demonstration https://www.youtube.com/watch?v=JX_Qrxz4i64&feature=youtu.be&ab_channel=HeinzVeintimilla 
